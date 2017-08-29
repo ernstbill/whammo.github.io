@@ -1,3 +1,7 @@
+theme: jekyll-them-cayman
+title: Welcome to Bill's Github Site!!!
+description: This is the second test page commit in this repository, to be updated shortly
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ernstbill/whammo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
