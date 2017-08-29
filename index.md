@@ -1,4 +1,3 @@
-theme: jekyll-them-cayman
 title: Welcome to Bill's Github Site!!!
 description: This is the second test page commit in this repository, to be updated shortly
 
